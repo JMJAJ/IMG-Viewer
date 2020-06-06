@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1591461805 source:c:\users\brudy\desktop\sublime text\c++\zasegraphics\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+

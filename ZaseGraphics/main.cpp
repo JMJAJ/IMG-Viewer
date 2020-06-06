@@ -21,8 +21,9 @@ int main()
 
     int mx = getmaxx();
     int my = getmaxy();
-    cout << mx << endl;
-    cout << my << endl;
+    cout << "X: " << mx << endl;
+    cout << "Y: " << my << endl;
+    cout << "You can open: .bmp, .gif, .jpg, .emf, .wmf" << endl;
     gets(filename);
 
     readimagefile(filename, 75, 100, 300, 300);
